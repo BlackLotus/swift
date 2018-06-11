@@ -14,6 +14,7 @@
 #include <QModelIndex>
 #include <QMovie>
 #include <QWizardPage>
+#include <QAbstractItemModel>
 
 #include <Swift/Controllers/UIEvents/AddContactUIEvent.h>
 #include <Swift/Controllers/UIEvents/CreateImpromptuMUCUIEvent.h>
