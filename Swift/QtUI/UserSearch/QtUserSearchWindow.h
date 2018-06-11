@@ -9,6 +9,7 @@
 #include <set>
 
 #include <QWizard>
+#include <QAbstractItemModel>
 
 #include <Swift/Controllers/UIInterfaces/UserSearchWindow.h>
 
